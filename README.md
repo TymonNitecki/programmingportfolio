@@ -39,7 +39,7 @@ A graphics display that inputs the users wasd and qezc keys to graw lines based 
 ### Random Word + Definition Generation
 A random print statement combines prefixes, root words, and suffixes, to generate semi meaningful random words that also output definitions using the definitions of the prefixes, root words and suffixes.
 
-![RandomWordGenerator](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/TimelineComputers.png?raw=true)
+![RandomWordGenerator](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/RandomWordGenerator.png)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/Timeline%202.zip)
 
