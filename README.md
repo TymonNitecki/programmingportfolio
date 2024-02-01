@@ -17,8 +17,8 @@ OOP graphics games spotlighting objects for user interacting that includes sound
 ### Calculator
 OOP graphics based calculator with ...
 
-![Calculator]()
+![Calculator](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/Calculator.png?raw=true)
 
-[SourceCode]
+[SourceCode]()
 
 
