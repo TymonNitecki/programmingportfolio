@@ -5,7 +5,7 @@
   
 ## Group Project 
 
-## Individual Projecttttt
+## Individual Project
 
 ### SpaceGame
 OOP graphics games spotlighting objects for user interacting that includes sound and animation.
