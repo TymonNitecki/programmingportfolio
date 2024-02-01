@@ -31,7 +31,7 @@ Graphic display of time periods with mouse hovering detenction.
 ### Etch A Sketch
 A graphics display that inputs the users wasd and qezc keys to graw lines based on user input.
 
-![EtchASketch](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/TimelineComputers.png?raw=true)
+![EtchASketch](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/EtchASketch.png)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/Timeline%202.zip)
 
