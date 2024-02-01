@@ -25,6 +25,7 @@ OOP graphics based calculator with mouse clickable keys as well as usable keyboa
 Graphic display of time periods with mouse hovering detenction.
 
 ![Timeline](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/TimelineComputers.png?raw=true)
+![Timeline](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/TimelineComputers.png?raw=true)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/Timeline%202.zip)
 
