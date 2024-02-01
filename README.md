@@ -33,7 +33,7 @@ A graphics display that inputs the users wasd and qezc keys to graw lines based 
 
 ![EtchASketch](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/EtchASketch.png)
 
-[SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/Timeline%202.zip)
+[SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/EtchASketch.zip)
 
 
 ### Random Word + Definition Generation
