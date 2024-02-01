@@ -1,11 +1,11 @@
 # Tymon Nitecki | Programming Portfolio
 
-## Certifications
+## USOE Tech Certifications
 * Programming 1 USOE Certification
   
-## Group Project 
+## Group Project (2023-2024)
 
-## Individual Project
+## Individual Project (2023-2024)
 
 ### SpaceGame
 OOP graphics games spotlighting objects for user interacting that includes sound and animation.
