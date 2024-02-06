@@ -25,14 +25,14 @@ OOP graphics based calculator with mouse clickable keys as well as usable keyboa
 Graphic display of time periods with mouse hovering detenction.
 
 ![Timeline](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/TimelineComputers.png?raw=true)
-![Timeline](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/Timeline2.png)
+![Timeline](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/Timeline2.png?raw=true)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/Timeline%202.zip)
 
 ### Etch A Sketch
 A graphics display that inputs the users wasd and qezc keys to graw lines based on user input.
 
-![EtchASketch](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/EtchASketch.png)
+![EtchASketch](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/EtchASketch.png?raw=true)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/EtchASketch.zip)
 
@@ -40,7 +40,7 @@ A graphics display that inputs the users wasd and qezc keys to graw lines based 
 ### Random Word + Definition Generation
 A random print statement combines prefixes, root words, and suffixes, to generate semi meaningful random words that also output definitions using the definitions of the prefixes, root words and suffixes.
 
-![RandomWordGenerator](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/RandomWordGenerator.png)
+![RandomWordGenerator](https://github.com/TymonNitecki/programmingportfolio/blob/main/images/RandomWordGenerator.png?raw=true)
 
 [SourceCode](https://github.com/TymonNitecki/programmingportfolio/blob/main/src/RandomWordGeneratorWithDefinitions.cpp.zip)
 
