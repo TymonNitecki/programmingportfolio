@@ -5,6 +5,10 @@
   
 ## Group Project (2023-2024)
 
+### Amnesia Text Based Adventure
+C++ text based adventure game that implements classes to take user input and progress the game.
+[SourceCode](https://github.com/AllLiver/Amnesia)
+
 ## Individual Project (2023-2024)
 
 ### SpaceGame
