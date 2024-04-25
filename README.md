@@ -1,4 +1,4 @@
-# Tymon Nitecki | Programming Portfolio
+# Tymon Nitecki | Programming Portfolio | skiboi2009@gmail.com
 
 ## USOE Tech Certifications
 * Programming 1 USOE Certification
