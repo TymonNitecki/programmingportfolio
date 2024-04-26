@@ -7,9 +7,15 @@
 
 ### Amnesia Text Based Adventure
 C++ text based adventure game that implements classes to take user input and progress the game.
+  The code produces text and plans to run askii art.
 [SourceCode](https://github.com/AllLiver/Amnesia)
 
 ## Individual Project (2023-2024)
+
+### MiniCheckurs
+Replit shell based checkers game with a 6x6 board that uses a two player system with standard checker rules.
+
+[SourceCode](https://github.io/TymonNitecki/MiniCheckurs.git)
 
 ### SpaceGame
 OOP graphics games spotlighting objects for user interacting that includes sound and animation.
