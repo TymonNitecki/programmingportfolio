@@ -14,8 +14,8 @@ C++ text based adventure game that implements classes to take user input and pro
 
 ### MiniCheckurs
 Replit shell based checkers game with a 6x6 board that uses a two player system with standard checker rules.
-
-[SourceCode](https://github.io/TymonNitecki/MiniCheckurs.git)
+![MiniCheckurs Layout](https://github.com/TymonNitecki/MiniCheckurs/blob/main/images/CheckerBoardCheckersPic.png?raw=true)
+[SourceCode](https://github.com/TymonNitecki/MiniCheckurs.git)
 
 ### SpaceGame
 OOP graphics games spotlighting objects for user interacting that includes sound and animation.
