@@ -2,6 +2,16 @@
 
 ## USOE Tech Certifications
 * Programming 1 USOE Certification
+[CertificationPage](https://certifications.youscience.com/exams/018c82e1-a53d-7000-90ee-44fa00f03d3f)
+
+* Programming 2 C++ USOE Certification
+[CertificationPage](https://certifications.youscience.com/exams/018f5e0b-f90d-7000-a06e-083aedfcb603)
+
+* Programming 2 Python USOE Certification
+[CertificationPage](https://certifications.youscience.com/exams/018f77ae-9fef-7000-8f52-ead710098bd9)
+  
+* Programming 2 Java USOE Certification
+[CertificationPage](https://certifications.youscience.com/exams/018f81f4-a8ad-7000-826a-c25b60eba8d2)
   
 ## Group Project (2023-2024)
 
